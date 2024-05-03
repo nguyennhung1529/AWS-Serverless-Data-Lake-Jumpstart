@@ -1,0 +1,21 @@
+client_id,first_name,last_name,fullname,age,date_of_birth,home_ownserhip_status,occupation,marital_status,head_of_household_flag,client_created_date
+1,John,Doe,John Doe,32,20200123,"Homeowner","Software Engineer","Married",TRUE,20240423
+2,Jane,Smith,Jane Smith,28,19950714,"Renter","Teacher","Single",FALSE,20240423
+3,Peter,Jones,Peter Jones,45,19781205,"Homeowner","Doctor","Married",TRUE,20240423
+4,Mary,Brown,Mary Brown,37,19870309,"Renter","Lawyer","Single",FALSE,20240423
+5,David,Williams,David Williams,29,19941116,"Homeowner","Accountant","Married",FALSE,20240423
+6,Sarah,Miller,Sarah Miller,31,19920821,"Renter","Marketing Manager","Single",FALSE,20240423
+7,Michael,Taylor,Michael Taylor,42,19810610,"Homeowner","Sales Manager","Married",TRUE,20240423
+8,Jennifer,Davis,Jennifer Davis,35,19890402,"Renter","Graphic Designer","Single",FALSE,20240423
+9,Robert,Thompson,Robert Thompson,50,19730918,"Homeowner","Business Analyst","Married",TRUE,20240423
+10,Linda,Walker,Linda Walker,40,19831225,"Renter","Web Developer","Single",FALSE,20240423
+11,Mark,Anderson,Mark Anderson,33,19900512,"Homeowner","Software Engineer","Married",FALSE,20240423
+12,Susan,Thomas,Susan Thomas,27,19960204,"Renter","Teacher","Single",FALSE,20240423
+13,Thomas,Johnson,Thomas Johnson,46,19771015,"Homeowner","Doctor","Married",TRUE,20240423
+14,Elizabeth,Wilson,Elizabeth Wilson,39,19840119,"Renter","Lawyer","Single",FALSE,20240423
+15,Paul,Moore,Paul Moore,26,19970728,"Homeowner","Accountant","Married",FALSE,20240423
+16,Laura,Garcia,Laura Garcia,30,19930420,"Renter","Marketing Manager","Single",FALSE,20240423
+17,Steven,Lopez,Steven Lopez,43,19801123,"Homeowner","Sales Manager","Married",TRUE,20240423
+18,Christina,Sanchez,Christina Sanchez,36,19880306,"Renter","Graphic Designer","Single",FALSE,20240423
+19,Daniel,Kim,Daniel Kim,48,19751214,"Homeowner","Business Analyst","Married",TRUE,20240423
+20,Karen,Nguyen,Karen Nguyen,38,19850217,"Renter","Web Developer","Single",FALSE,20240423

@@ -1,0 +1,23 @@
+trans_id,account_id,date,type,operation,amount,balance
+1,1001,20240501,Savings,Deposit,100.00,1100.00
+2,1002,20240501,Checking,Withdrawal,50.00,950.00
+3,1003,20240501,Credit Card,Payment,200.00,700.00
+4,1004,20240501,Savings,Transfer,50.00,1150.00
+5,1005,20240501,Checking,Bill Payment,100.00,850.00
+6,1001,20240502,Savings,Interest,5.00,1105.00
+7,1002,20240502,Checking,Deposit,200.00,1150.00
+8,1003,20240502,Credit Card,Purchase,150.00,550.00
+9,1004,20240502,Savings,Withdrawal,100.00,1050.00
+10,1005,20240502,Checking,Transfer,25.00,825.00
+11,1001,20240503,Savings,Deposit,75.00,1180.00
+12,1002,20240503,Checking,Withdrawal,30.00,1120.00
+13,1003,20240503,Credit Card,Payment,100.00,450.00
+14,1004,20240503,Savings,Transfer,150.00,1200.00
+15,1005,20240503,Checking,Bill Payment,50.00,775.00
+16,1001,20240504,Savings,Interest,6.00,1186.00
+17,1002,20240504,Checking,Deposit,100.00,1220.00
+18,1003,20240504,Credit Card,Purchase,75.00,375.00
+19,1004,20240504,Savings,Withdrawal,50.00,1150.00
+20,1005,20240504,Checking,Transfer,35.00,740.00
+21,1001,20240505,Savings,Deposit,50.00,1236.00
+22,1002,20240505,Checking,Withdrawal,20.00,1200.00
