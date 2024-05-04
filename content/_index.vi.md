@@ -1,15 +1,19 @@
 ---
-title : "AWS Glue"
+title : "AWS Serverless Data Lake Jumpstart"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 ---
-# AWS Glue
+# AWS Serverless Data Lake Jumpstart
+### Giới thiệu
+Trong Workshop này bạn sẽ được hướng dẫn cách sử dụng các dịch vụ serverless của AWS nhằm xây dựng kiến trúc data lake trên nền tảng đám mây. Bạn sẽ sử dụng AWS Glue để quản lý danh mục (data catalog) và ETL dữ liệu, Amazon S3 làm kho lưu trữ data lake, Amazon Athena để truy vấn dữ liệu và Amazon QuickSight để trực quan hóa dữ liệu.
+![Workshop](/images/1-getting-started/aws-serverless-data-lake-jumpstart-architecture.png)
 
-In this lab we take a look at AWS Glue in full using the console. The labs covers all the basic knowledge about AWS Glue, AWS Glue ecosystems (like AWS Glue Data Catalog, AWS Glue ETL, AWS Glue Triggers, AWS Glue Dev Endpoints, etc), and PySpark for AWS Glue. 
-
-### Content
- 1. [Overview AWS Glue](1-overview-aws-glue/)
- 2. [AWS Glue Deep dive & Hand-ons](2-aws-glue-deep-dive-and-hands-on/)
- 3. [PySpark for AWS Glue](3-pyspark-for-aws-glue/)
- <!-- 3. [AWS Glue ETL vs EMR](3-aws-glue-etl-vs-emr/) -->
+### Nội dung
+ 1. [Chuẩn bị](1-getting-started/)
+ 2. [Lab 1 – Quản trị data lake](2-data-lake-administrator/)
+ 2. [Lab 2 – Khám phá và lập danh mục dữ liệu (Cataloging Data)](3-cataloging-data/)
+ 3. [Lab 3 - Exploring your Data](4-exploring-data/)
+ 3. [Lab 4 – Transforming your Data](5-exploring-data/)
+ 3. [Lab 5 – Enriching your Data](6-enriching-data/)
+ 3. [Lab 6 - Visualizing your Data](7-visualizing-data/)
