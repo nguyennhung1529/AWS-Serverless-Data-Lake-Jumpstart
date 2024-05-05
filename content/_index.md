@@ -12,6 +12,7 @@ This workshop is prepared to guide participants on how to use AWS serverless ser
 {{% notice info %}}
 Total cost in this lab for just use AWS Glue will around **4$**.
 {{% /notice %}}
+![Workshop](/images/total_cost_glue_job.png)
 
 ### Content
  1. [Getting started](1-getting-started/)

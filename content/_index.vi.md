@@ -12,6 +12,7 @@ Trong Workshop này bạn sẽ được hướng dẫn cách sử dụng các d�
 {{% notice info %}}
 Tổng chi phí chi ra trong lab này (phí AWS Glue) sẽ khoảng **4$**.
 {{% /notice %}}
+![Workshop](/images/total_cost_glue_job.png)
 
 ### Nội dung
  1. [Chuẩn bị](1-getting-started/)
