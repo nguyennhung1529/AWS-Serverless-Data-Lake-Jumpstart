@@ -9,6 +9,10 @@ chapter : false
 This workshop is prepared to guide participants on how to use AWS serverless services to build a cloud-native and future-proof serverless data lake architecture. We will use AWS Glue for ETL and data catalog management, Amazon S3 for data lake storage, Amazon Athena to query data and Amazon QuickSight to visualize data.
 ![Workshop](/images/aws-serverless-data-lake-jumpstart-architecture.png)
 
+{{% notice info %}}
+Total cost in this lab for just use AWS Glue will around **4$**.
+{{% /notice %}}
+
 ### Content
  1. [Getting started](1-getting-started/)
  2. [Data Lake Administrator](2-data-lake-administrator/)
