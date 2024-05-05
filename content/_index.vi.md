@@ -7,13 +7,16 @@ chapter : false
 # AWS Serverless Data Lake Jumpstart
 ### Giới thiệu
 Trong Workshop này bạn sẽ được hướng dẫn cách sử dụng các dịch vụ serverless của AWS nhằm xây dựng kiến trúc data lake trên nền tảng đám mây. Bạn sẽ sử dụng AWS Glue để quản lý danh mục (data catalog) và ETL dữ liệu, Amazon S3 làm kho lưu trữ data lake, Amazon Athena để truy vấn dữ liệu và Amazon QuickSight để trực quan hóa dữ liệu.
-![Workshop](/images/1-getting-started/aws-serverless-data-lake-jumpstart-architecture.png)
+![Workshop](/images/aws-serverless-data-lake-jumpstart-architecture.png)
 
 ### Nội dung
  1. [Chuẩn bị](1-getting-started/)
- 2. [Lab 1 – Quản trị data lake](2-data-lake-administrator/)
- 2. [Lab 2 – Khám phá và lập danh mục dữ liệu (Cataloging Data)](3-cataloging-data/)
- 3. [Lab 3 - Exploring your Data](4-exploring-data/)
- 3. [Lab 4 – Transforming your Data](5-exploring-data/)
- 3. [Lab 5 – Enriching your Data](6-enriching-data/)
- 3. [Lab 6 - Visualizing your Data](7-visualizing-data/)
+ 2. [Quản trị data Lake với Lake Formation](2-data-lake-administrator/)
+ 3. [Lập danh mục (catalog) dữ liệu](3-cataloging-data/)
+ 4. [Khám phá dữ liệu](4-exploring-data/)
+ 5. [Biến đổi dữ liệu](5-exploring-data/)
+ 6. [Phong phú hóa dữ liệu](6-enriching-data/)
+ 7. [Trực quan hóa dữ liệu](7-visualizing-data/)
+
+### Tham khảo
+  * https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194/en-US
